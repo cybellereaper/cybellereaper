@@ -9,7 +9,7 @@ I am a Computing Science professional with a passion for web development and mac
 
 ## Experience
 - **Technician** @ Boise State University (May 2023 – Apr 2024)
-- **Security Analyst, IAM** @ KingsIsle Entertainment (Remote, Sep 2022 – Dec 2022)
+- **Security Analyst, IAM** @ KingsIsle Entertainment (Remote, Sep 2019 – Dec 2022)
 
 ## Education
 - **Bachelor's Degree in Computing Science** @ Boise State University (Sep 2019 – Apr 2024)
