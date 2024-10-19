@@ -1,5 +1,3 @@
-# Hi, I'm CybelleReaper! 👋
-
 ## About Me
 I am a Computing Science professional with a passion for web development and machine learning. My expertise lies in back-end technologies, particularly in Go and Kotlin, with a strong focus on back-end systems utilizing Go and MongoDB. I am dedicated to leveraging technology to solve complex problems and am eager to contribute to dynamic teams with innovative solutions.
 
