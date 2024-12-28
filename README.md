@@ -16,8 +16,3 @@
 
 ---
 
-### 🎮 Minecraft Stats (for fun!)
-
-![Minecraft Stats](https://minecraft-api.com/api/v2/player/username=Auuki)
-
----
