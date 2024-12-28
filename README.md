@@ -1,8 +1,8 @@
 **About Me**  
-I am a Computing Science professional with a strong passion for web development and machine learning. My expertise is in back-end technologies, with a focus on Go and Kotlin, and a particular emphasis on back-end systems utilizing Go and MongoDB. I am committed to leveraging technology to solve complex challenges and am eager to contribute to dynamic teams with innovative solutions.
+I am a Computing Science professional with expertise in back-end development, particularly in Go and Kotlin. My focus is on building scalable systems and leveraging technologies like MongoDB to solve complex challenges. I am passionate about contributing to innovative teams and creating impactful solutions.
 
 **Technical Skills**  
-- **Back-End Technologies**: NoSQL, PostgreSQL, MongoDB  
-- **Programming Languages**: Python, Java, C++, Kotlin, Go  
-- **Web Technologies**: REST APIs, OAuth  
-- **Core Concepts**: Data Structures, Object-Oriented Programming, Git, Version Control
+- **Back-End**: Go, Kotlin, MongoDB, PostgreSQL  
+- **Languages**: Python, Java, C++  
+- **Web**: REST APIs, OAuth  
+- **Core Concepts**: Data Structures, Git, Version Control
