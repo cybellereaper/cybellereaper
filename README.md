@@ -13,3 +13,4 @@
 ### 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cybellereaper&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=tokyonight)
+![KLabs](https://6klabs.com/widget/youtube/${secrets.klabs_token})
