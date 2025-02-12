@@ -8,5 +8,5 @@ All my projects are distributed under the **BSD-3 License**, which provides a pe
 
 For more details about the BSD-3 License, you can visit the official [Open Source Initiative (OSI)](https://opensource.org/licenses/BSD-3-Clause) website or refer to the license file in each project repository.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cybellereaper&hide=contribs,issues,prs&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&bg_color=3c1741&icon_color=fde3a2&text_color=fcf8fa&include_all_commits=true&disable_animations=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cybellereaper&hide=contribs,issues,prs&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&bg_color=1e1e33&icon_color=fcf56e&text_color=fcf56e&include_all_commits=true&disable_animations=true)
 
